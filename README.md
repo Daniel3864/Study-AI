@@ -347,11 +347,5 @@ Perfectly aligned with the goals of the **Google × Kaggle Agents Intensive Caps
 ### **Shubham Mahajan**  
 AI & Web Developer  
 *“Solve. Fail. Learn. Repeat.”*
-
----
-
-# 🔗 Project Links  
-
-- `studyalpha_video_demo.ipynb`  
-- `studyAlpha_demo.ipynb`  
+  
 
