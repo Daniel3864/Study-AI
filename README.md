@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 StudyAlpha-AI-Agent  
+# 🧠 Study-AI-Agent  
 ## **Autonomous Study & Revision System**  
 ### *Your Personal AI Study Coach powered by Multi-Agent Intelligence*
 
@@ -38,7 +38,7 @@ Traditional AI tools simply **answer questions** — they don’t:
 - remember  
 - adapt  
 
-💡 **StudyAlpha solves this** by acting as a complete, autonomous study coach that:
+💡 **Study-AI solves this** by acting as a complete, autonomous study coach that:
 
 - plans the study roadmap  
 - generates quizzes  
@@ -328,7 +328,7 @@ StudyAlpha is:
 
 # 📝 Final Note  
 
-**StudyAlpha acts like a real AI tutor — doing more than answering questions.**  
+**StudyAI acts like a real AI tutor — doing more than answering questions.**  
 It thinks, plans, evaluates, adapts, and remembers.
 
 This system combines:
@@ -344,7 +344,7 @@ Perfectly aligned with the goals of the **Google × Kaggle Agents Intensive Caps
 ---
 
 # 👤 Author  
-### **Shubham Mahajan**  
+### **Daniel N*  
 AI & Web Developer  
 *“Solve. Fail. Learn. Repeat.”*
   
